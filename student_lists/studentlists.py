@@ -60,7 +60,7 @@ class ClassList:
             return True
         else:
             return False
-            
+
 
     def __str__(self):
         return ", ".join(self.class_list)
